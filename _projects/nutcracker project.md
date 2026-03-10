@@ -15,10 +15,10 @@ Plan: 1) FBD
       4) Determine height
 
 Solution: 
- <img width="752" height="418" alt="Screenshot 2026-03-09 at 12 22 56 AM" src="https://github.com/user-attachments/assets/1b12cd57-a3a1-4847-8551-0abdbbc4423f" />
+![IMG_0189](https://github.com/user-attachments/assets/e2f10877-5e3e-4e08-bdf0-81f3e46503d6)
 
-$\sum M = l_c F_i - l_n F_n = 0, \qquad 
-\frac{l_c}{l_n} = \frac{F_n}{F_i} = \frac{2178}{300} = 7.26, \qquad 
+$\sum M = l_n x F_n - l_c x F_a = 0, \qquad 
+\frac{l_c}{l_n} = \frac{F_n}{F_a} = \frac{2178}{300} = 7.26, \qquad 
 l_c = 7.26\,l_n, \qquad 
 \frac{l_c}{l_n} = \frac{H_c}{H_n} = 7.26, \qquad 
 H_c = 7.26\,H_n = 7.26(2.5\text{cm}) = 18.15\text{cm}, \qquad 
@@ -41,17 +41,19 @@ If Hc is 18.15cm, that's too large for a hand to grip, much less apply force to 
 
   Solve: 
   
-  $\sum M = l_c F_i - l_n F_n = 0$
+  $\sum M = l_n x F_n - l_c x F_a = 0$
 
-$\frac{l_c}{l_n} = \frac{F_n}{F_i}
+$\frac{l_c}{l_n} = \frac{F_n}{F_a}
 = \frac{2178\text{N}}{751.75\text{N} = 2.89$
-
+Use lc = 20cm, so ln = 6.9cm
 $\frac{l_c}{l_n} = \frac{H_c}{H_n}, \qquad
 H_n = \frac{l_n H_c}{l_c}$
 
-$H_n = \frac{5.13\text{in}\left(\frac{2.54\,\text{cm}}{1\,\text{in}}\right)}{2.89}
+$H_n = \frac{5.13\text{in}\left(\frac{2.54\text{cm}}{1\text{in}}\right)}{2.89}
 = 4.50\,\text{cm}$
 
 Hn is greater than the size of the nut, so the design must be modified so that the closed position Hn = 2.5cm
   
  
+![IMG_0189 2](https://github.com/user-attachments/assets/c39f050f-68a6-46bf-9f85-53a33b35d7c4)
+![IMG_0189 3](https://github.com/user-attachments/assets/65523ea4-8bad-464c-b851-6363986b35f1)
