@@ -19,8 +19,12 @@ Solution:
 
 $\sum M = l_c F_i - l_n F_n = 0, \qquad 
 \frac{l_c}{l_n} = \frac{F_n}{F_i} = \frac{2178 N}{300 N} = 7.26, \qquad
-\frac{l_c}{l_n} = \frac{H_c}{H_n}, \qquad
-H_c = 7.26 H_n = 7.26 \times 2.5\text{cm} = 18.15\,\text{cm}$
+$l_n = \frac{l_c}{7.26}$
+$l_n = \frac{20\,\text{cm}}{7.26}$
+$l_n = 2.75\,\text{cm}$
+$\frac{l_c}{l_n} = \frac{H_c}{H_n} = 7.26$
+$H_c = 7.26 H_n$
+$H_c = 7.26 \times 2.5\,\text{cm} = 14.52\,\text{cm}$
 
   b) Discuss the usability of the nutcracker that you designed
   c) Now, instead of relying on grip strength to apply the input force, modify your design to use a linear actuator.
