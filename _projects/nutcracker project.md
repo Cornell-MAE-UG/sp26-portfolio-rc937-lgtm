@@ -29,6 +29,32 @@ If the length of the nutcracker is 20cm long then the nut must be 2.75cm away fr
 
   $\textbf{\ b) Discuss the usability of the nutcracker that you designed}$
 
+If Hc is 18.15cm, that's too large for a hand to grip, much less apply force to crack the nut. This design as is isn't usable.
   
   $\textbf{\ c) Now, instead of relying on grip strength to apply the input force, modify your design to use a linear actuator.}$
+
+  Given: Linear Actuator: IP65 Mini Linear Actuator, Stroke: 1-40 inch, Force: 16-225 lbs, Stroke length: 1", Closed length: 5.13"
+
+  Find: New dimensions
+
+  Plan: FBD, moment balance, Determine Lengths
+
+  Solve: 
+  
+  $\sum M = l_c F_i - l_n F_n = 0$
+
+$\frac{l_c}{l_n} = \frac{F_n}{F_i}
+= \frac{222.18\,\text{kg}}{169\,\text{lb}\left(\frac{1\,\text{kg}}{2.2\,\text{lb}}\right)}
+= 2.90$
+
+Assuming $l_n = 4\,\text{cm}$,
+
+$l_c = 2.90\,l_n = 11.59\,\text{cm}$
+
+$\frac{l_c}{l_n} = \frac{H_c}{H_n}, \qquad
+H_n = \frac{l_n H_c}{l_c}$
+
+$H_n = \frac{5.13\,\text{in}\left(\frac{2.54\,\text{cm}}{1\,\text{in}}\right)}{2.9}
+= 4.49\,\text{cm}$
+  
  
