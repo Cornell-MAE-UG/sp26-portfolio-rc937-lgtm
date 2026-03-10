@@ -17,41 +17,8 @@ Plan: 1) FBD
 Solution: 
  <img width="752" height="418" alt="Screenshot 2026-03-09 at 12 22 56 AM" src="https://github.com/user-attachments/assets/1b12cd57-a3a1-4847-8551-0abdbbc4423f" />
 
-\text{Using the nutcracker joint as origin}
-
-\[
-\sum M = l_c \times F_i - l_n \times F_n = 0
-\]
-
-\[
-\frac{l_c}{l_n} = \frac{F_n}{F_i}
-\]
-
-\[
-= \frac{222.18 \,\text{kg}}{40 \,\text{kg}}
-\]
-
-\[
-= 5.55
-\]
-
-\text{Because of similar triangles:}
-
-\[
-\frac{l_c}{l_n} = \frac{H_c}{H_n} = 5.55
-\]
-
-\[
-H_c = 5.55 H_n
-\]
-
-\[
-= 5.55 \times 2\,\text{cm}
-\]
-
-\[
-= 11.11 \,\text{cm}
-\]
+$p_i = \frac{\exp(\eta_i)}{1 + \exp(\eta_i)}, \qquad \eta_i = \alpha + \beta_I \,
+\text{Installation}_i + \beta_S \, \text{MonthlySavings}_i$
 
   b) Discuss the usability of the nutcracker that you designed
   c) Now, instead of relying on grip strength to apply the input force, modify your design to use a linear actuator.
