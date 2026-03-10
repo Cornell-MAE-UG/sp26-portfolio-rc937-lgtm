@@ -44,17 +44,14 @@ If Hc is 18.15cm, that's too large for a hand to grip, much less apply force to 
   $\sum M = l_c F_i - l_n F_n = 0$
 
 $\frac{l_c}{l_n} = \frac{F_n}{F_i}
-= \frac{222.18\,\text{kg}}{169\,\text{lb}\left(\frac{1\,\text{kg}}{2.2\,\text{lb}}\right)}
-= 2.90$
-
-Assuming $l_n = 4\,\text{cm}$,
-
-$l_c = 2.90\,l_n = 11.59\,\text{cm}$
+= \frac{2178\text{N}}{751.75\text{N} = 2.89$
 
 $\frac{l_c}{l_n} = \frac{H_c}{H_n}, \qquad
 H_n = \frac{l_n H_c}{l_c}$
 
-$H_n = \frac{5.13\,\text{in}\left(\frac{2.54\,\text{cm}}{1\,\text{in}}\right)}{2.9}
-= 4.49\,\text{cm}$
+$H_n = \frac{5.13\text{in}\left(\frac{2.54\,\text{cm}}{1\,\text{in}}\right)}{2.89}
+= 4.50\,\text{cm}$
+
+Hn is greater than the size of the nut, so the design must be modified so that the closed position Hn = 2.5cm
   
  
