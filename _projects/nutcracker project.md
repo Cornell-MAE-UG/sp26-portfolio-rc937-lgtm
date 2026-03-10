@@ -17,8 +17,10 @@ Plan: 1) FBD
 Solution: 
  <img width="752" height="418" alt="Screenshot 2026-03-09 at 12 22 56 AM" src="https://github.com/user-attachments/assets/1b12cd57-a3a1-4847-8551-0abdbbc4423f" />
 
-$p_i = \frac{\exp(\eta_i)}{1 + \exp(\eta_i)}, \qquad \eta_i = \alpha + \beta_I \,
-\text{Installation}_i + \beta_S \, \text{MonthlySavings}_i$
+$\sum M = l_c F_i - l_n F_n = 0, \qquad 
+\frac{l_c}{l_n} = \frac{F_n}{F_i} = \frac{222.18}{40} = 5.55, \qquad
+\frac{l_c}{l_n} = \frac{H_c}{H_n}, \qquad
+H_c = 5.55 H_n = 5.55 \times 2\,\text{cm} = 11.11\,\text{cm}$
 
   b) Discuss the usability of the nutcracker that you designed
   c) Now, instead of relying on grip strength to apply the input force, modify your design to use a linear actuator.
