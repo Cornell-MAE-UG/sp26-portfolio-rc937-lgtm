@@ -1,3 +1,9 @@
+---
+title: Nutcracker Project
+layout: project
+permalink: /projects/nutcracker-project/
+---
+
 **Design problem: Imagine you have a macadamia nut that you want to crack open by hand using a simple lever nut cracker.**
 
   $\textbf{\ a) Draw a figure of the nut cracker with the nut when it’s about to crack. Calculate the necessary dimensions of the nutcracker and come up with a design to make this task
