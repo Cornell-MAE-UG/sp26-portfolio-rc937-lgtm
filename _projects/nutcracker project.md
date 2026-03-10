@@ -40,11 +40,14 @@ If Hc is 18.15cm, that's too large for a hand to grip, much less apply force to 
   Plan: FBD, moment balance, Determine Lengths
 
   Solve: 
+
+  ![IMG_0189 2](https://github.com/user-attachments/assets/c39f050f-68a6-46bf-9f85-53a33b35d7c4)
+
   
   $\sum M = l_n x F_n - l_c x F_a = 0$
 
 $\frac{l_c}{l_n} = \frac{F_n}{F_a}
-= \frac{2178\text{N}}{751.75\text{N} = 2.89$
+= \frac{2178\text{N}}{751.75\text{N}} = 2.89$
 Use lc = 20cm, so ln = 6.9cm
 $\frac{l_c}{l_n} = \frac{H_c}{H_n}, \qquad
 H_n = \frac{l_n H_c}{l_c}$
@@ -54,6 +57,5 @@ $H_n = \frac{5.13\text{in}\left(\frac{2.54\text{cm}}{1\text{in}}\right)}{2.89}
 
 Hn is greater than the size of the nut, so the design must be modified so that the closed position Hn = 2.5cm
   
- 
-![IMG_0189 2](https://github.com/user-attachments/assets/c39f050f-68a6-46bf-9f85-53a33b35d7c4)
+New Design:  
 ![IMG_0189 3](https://github.com/user-attachments/assets/65523ea4-8bad-464c-b851-6363986b35f1)
