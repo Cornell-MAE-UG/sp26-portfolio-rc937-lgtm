@@ -3,6 +3,19 @@ title: Nutcracker Project
 layout: project
 permalink: /projects/nutcracker-project/
 ---
+
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+</script>
+
 Design problem: Imagine you have a macadamia nut that you want to crack open by hand using a simple lever nut cracker.
 
 a) Draw a figure of the nut cracker with the nut when it’s about to crack. Calculate the necessary dimensions of the nutcracker and come up with a design to make this task
