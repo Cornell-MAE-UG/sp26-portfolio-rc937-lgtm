@@ -1,6 +1,6 @@
-$\textbf{\Huge Design problem: Imagine you have a macadamia nut that you want to crack open by hand using a simple lever nut cracker.}$
+**Design problem: Imagine you have a macadamia nut that you want to crack open by hand using a simple lever nut cracker.**
 
-  $\textbt{\a) Draw a figure of the nut cracker with the nut when it’s about to crack. Calculate the necessary dimensions of the nutcracker and come up with a design to make this task
+  $\textbf{\a) Draw a figure of the nut cracker with the nut when it’s about to crack. Calculate the necessary dimensions of the nutcracker and come up with a design to make this task
 feasible. You can assume a very simple geometry for the nutcracker to make your
 calculations easier.}$
 
@@ -27,8 +27,8 @@ l_n = \frac{20\text{cm}}{7.26} = 2.75\text{cm}$
 
 If the length of the nutcracker is 20cm long then the nut must be 2.75cm away from the joint.
 
-  $\textbt{\b) Discuss the usability of the nutcracker that you designed}$
+  $\textbf{\b) Discuss the usability of the nutcracker that you designed}$
 
   
-  $\textbt{\c) Now, instead of relying on grip strength to apply the input force, modify your design to use a linear actuator.}$
+  $\textbf{\c) Now, instead of relying on grip strength to apply the input force, modify your design to use a linear actuator.}$
  
