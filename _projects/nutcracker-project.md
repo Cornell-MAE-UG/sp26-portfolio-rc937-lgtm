@@ -33,7 +33,10 @@ calculations easier.
         4) Determine height
 
   Solution: 
-  ![IMG_0189](https://github.com/user-attachments/assets/e2f10877-5e3e-4e08-bdf0-81f3e46503d6)
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/e2f10877-5e3e-4e08-bdf0-81f3e46503d6" width="450">
+</p>
 
   ```python
   $\sum M = l_n x F_n - l_c x F_a = 0, \qquad 
