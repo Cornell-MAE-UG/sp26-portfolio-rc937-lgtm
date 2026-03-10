@@ -18,7 +18,8 @@ Solution:
  <img width="752" height="418" alt="Screenshot 2026-03-09 at 12 22 56 AM" src="https://github.com/user-attachments/assets/1b12cd57-a3a1-4847-8551-0abdbbc4423f" />
 
 $\sum M = l_c F_i - l_n F_n = 0, \qquad 
-$\frac{l_c}{l_n} = \frac{F_n}{F_i} = \frac{2178 N}{300 N} = 7.26, \qquad
+$\frac{l_c}{l_n} = \frac{F_n}{F_i} = \frac{2178 N}{300 N} = 7.26,$
+
 $l_n = \frac{l_c}{7.26}$
 $l_n = \frac{20\,\text{cm}}{7.26}$
 $l_n = 2.75\,\text{cm}$
