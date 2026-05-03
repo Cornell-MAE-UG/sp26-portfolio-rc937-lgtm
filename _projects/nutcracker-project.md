@@ -184,7 +184,7 @@ Solution:
 Free body diagram:
 
 <p align="center">
-<img src="[YOUR_IMAGE_LINK_HERE](https://github.com/user-attachments/assets/b56c1f42-9b21-4e15-b14d-6d90034cdfb2)" width="450">
+<img src="https://github.com/user-attachments/assets/b56c1f42-9b21-4e15-b14d-6d90034cdfb2" width="450">
 </p>
 
 Maximum deflection location would be near the end of the handle, where the actuator is attached at x = lc = 20cm.
@@ -254,7 +254,7 @@ Dimensions:
 - Thickness: 2 mm
 
 <p align="center">
-<img src="[YOUR_IMAGE_LINK_HERE](https://github.com/user-attachments/assets/16b0769b-b856-4ee1-a27f-88f6150e34cd)" width="450">
+<img src="https://github.com/user-attachments/assets/16b0769b-b856-4ee1-a27f-88f6150e34cd" width="450">
 </p>
 
 Conclusion:
